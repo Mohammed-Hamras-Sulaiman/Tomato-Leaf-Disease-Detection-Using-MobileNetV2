@@ -61,7 +61,6 @@ Tomato leaf disease classification into 11 categories (including healthy).
 - **Flask**: Web framework for the application.
 - **TensorFlow**: For building and deploying the deep learning model.
 - **OpenCV**: For image preprocessing.
-- **SQLite**: For storing user and activity data.
 - **Python**: The primary programming language.
 
 ## How to Run Locally
