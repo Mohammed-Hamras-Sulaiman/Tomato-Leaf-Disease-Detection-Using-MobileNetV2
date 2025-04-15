@@ -1,7 +1,0 @@
-flask
-flask-sqlalchemy
-flask-login
-tensorflow
-opencv-python
-numpy
-werkzeug
