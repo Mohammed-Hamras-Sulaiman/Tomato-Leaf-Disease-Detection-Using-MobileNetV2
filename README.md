@@ -1,6 +1,6 @@
 # Tomato Leaf Disease Detection Using MobileNetV2
 
-This project is an AI-powered web application that detects and classifies tomato leaf diseases using deep learning techniques. The system is built using a fine-tuned **MobileNetV2** model with over **95% accuracy**. The application includes an admin dashboard to visualize disease trends by region and utilizes **OpenCV** for image preprocessing.
+This project is an AI-powered web application that detects and classifies tomato leaf diseases using deep learning techniques. The system is built using a fine-tuned **MobileNetV2** model with over **97.11% accuracy**. The application includes an admin dashboard to visualize disease trends by region and utilizes **OpenCV** for image preprocessing.
 
 ## Features
 
